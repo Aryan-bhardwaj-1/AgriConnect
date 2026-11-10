@@ -1,0 +1,47 @@
+# Query: Kisan Direct
+# ContextLines: 1
+
+9 results - 7 files
+
+frontend\src\components\FarmerCard.jsx:
+  339            <div className="logo">
+  340:             🌾 KISAN 
+  341            </div>
+
+frontend\src\components\Footer.jsx:
+  155              <div className="footer-logo">
+  156:               🌾 KISAN DIRECT
+  157              </div>
+
+  159              <p className="footer-about">
+  160:               Kisan Direct connects farmers directly with consumers
+  161                and bulk buyers. Sell your agricultural products at
+
+  243            <p>
+  244:             © {new Date().getFullYear()} Kisan Direct. All Rights Reserved.
+  245            </p>
+
+frontend\src\pages\BuyerLogin.jsx:
+  490            >
+  491:             🔒 Secure payment powered by Kisan Direct
+  492            </p>
+
+frontend\src\pages\FarmerEarnings.jsx:
+  490            >
+  491:             🔒 Secure payment powered by Kisan Direct
+  492            </p>
+
+frontend\src\pages\FarmerLogin.jsx:
+  29          <div className="auth-logo">
+  30:           🌾 <span>Kisan Direct</span>
+  31          </div>
+
+frontend\src\pages\FarmerSignup.jsx:
+  52          <div className="auth-logo">
+  53:           🌾 <span>Kisan Direct</span>
+  54          </div>
+
+frontend\src\pages\MyProducts.jsx:
+  566              <p className="subtitle">
+  567:               Manage your crops and products listed on Kisan Direct.
+  568              </p>
