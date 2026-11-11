@@ -7,7 +7,7 @@ AgriConnect is a digital farmer-to-buyer marketplace designed to connect farmers
 The platform provides a digital environment where farmers and buyers can connect, explore agricultural products, and make the buying and selling process easier.
 
 ---
-## here is an link - http://3.25.173.107/
+## here is an link - http://localhost:5173/
 
 
 ## 🚀 Project Overview
