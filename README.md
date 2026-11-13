@@ -225,7 +225,7 @@ The deployment pipeline follows these steps:
 
 ---
 
-## 🔮 Future Enhancements
+##  Future Enhancements
 
 - AI-powered crop price prediction.
 - Smart product recommendations.
@@ -237,7 +237,7 @@ The deployment pipeline follows these steps:
 
 ---
 
-## 👨‍💻 Project Information
+##  Project Information
 
 **Project Name:** AgriConnect – Farmer-to-Buyer Marketplace
 
@@ -268,4 +268,4 @@ If you would like to improve this project:
 
 If you find this project interesting, consider giving the repository a ⭐ on GitHub.
 
-**Building a better digital marketplace for farmers, one step at a time! 🌱**
+**Building a better digital marketplace for farmers, one step at a time! **
